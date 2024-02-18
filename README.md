@@ -3,7 +3,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tharindurasmal/Library-Management-System.git
+    git clone https://github.com/tharindurasmal/Cryptography-Application.git
     ```
 ### Features
 
