@@ -6,7 +6,7 @@
     git clone https://github.com/tharindurasmal/Cryptography-Application.git
     ```
 ### Features
-![dd](https://github.com/tharindurasmal/Cryptography-Application/assets/130370267/c13f3698-c9e7-457c-82a2-62c98bfcb404)
+![Capture](https://github.com/tharindurasmal/Cryptography-Application/assets/130370267/4e53bcda-eace-40b7-a8d8-7c7302de8bc2)
 
 ### License
 
